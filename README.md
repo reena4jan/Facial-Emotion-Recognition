@@ -2,8 +2,9 @@
 Emotion-Detection
 
 Usage:
-First Run img_predict.py => python Emotion_recognition.py
-Then run vidotester.py
+First Run img_predict.py 
+      live_cam_predict.py
+Then run vid_predict.py
 
 Acknowledgements:
 - http://sefiks.com/2018/01/01/facial-expression-recognition-with-keras/
