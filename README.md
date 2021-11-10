@@ -1,13 +1,13 @@
 # Facial-Emotion-Recognition
 Emotion-Detection
 
-Usage:
+Usage: Run 
 
-First Run img_predict.py 
+      img_predict.py 
 
       live_cam_predict.py
       
-Then run vid_predict.py
+      vid_predict.py
 
 Acknowledgements:
 - http://sefiks.com/2018/01/01/facial-expression-recognition-with-keras/
