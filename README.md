@@ -2,8 +2,11 @@
 Emotion-Detection
 
 Usage:
+
 First Run img_predict.py 
+
       live_cam_predict.py
+      
 Then run vid_predict.py
 
 Acknowledgements:
