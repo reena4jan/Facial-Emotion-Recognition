@@ -2,7 +2,7 @@
 Emotion-Detection
 
 Usage:
-First Run Emotion_recognition.py => python Emotion_recognition.py
+First Run img_predict.py => python Emotion_recognition.py
 Then run vidotester.py
 
 Acknowledgements:
